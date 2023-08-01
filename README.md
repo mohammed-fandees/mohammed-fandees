@@ -1,3 +1,13 @@
+<a href="https://komarev.com/ghpvc/?username=mohammed-fanees">
+  <img align="right" src="https://komarev.com/ghpvc/?username=mohammed-fanees&label=Visitors&color=0e75b6&style=flat"
+    alt="Profile visitor" />
+</a>
+
+<a href="https://wakatime.com/@9b724250-5120-4677-a2e0-78b5979e78d1"><img
+    src="https://wakatime.com/badge/user/9b724250-5120-4677-a2e0-78b5979e78d1.svg"
+    alt="Total time coded since Aug 1 2023" />
+</a>
+
 <h2 align="center">
   Welcome to my World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -10,14 +20,6 @@
 
 
 
-<a href="https://komarev.com/ghpvc/?username=mohammed-fanees">
-  <img align="right" src="https://komarev.com/ghpvc/?username=mohammed-fanees&label=Visitors&color=0e75b6&style=flat"
-    alt="Profile visitor" />
-</a>
-
-<a href="https://wakatime.com/@9b724250-5120-4677-a2e0-78b5979e78d1"><img
-    src="https://wakatime.com/badge/user/9b724250-5120-4677-a2e0-78b5979e78d1.svg"
-    alt="Total time coded since Aug 1 2023" /></a>
 
 <!-- Intro  -->
 <h3 align="center">
@@ -102,16 +104,21 @@
 <br />
 
 ## Top Repositories
-[![Mohammed-s-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=Mohammed-s-portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mohammed-fandees/Mohammed-s-portfolio)
-[![Lonely](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=lonely&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mohammed-fandees/Lonely)
-[![Wedgets](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=wedgets&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mohammed-fandees/Wedgets)
-[![online-store](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=online-store&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mohammed-fandees/online-store)
 
-<p align="left">
-  <a href="https://github.com/mohammed-fandees?tab=repositories" target="_blank"><img alt="All Repositories"
-      title="All Repositories"
-      src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white" /></a>
-</p>
+<div align="center">
+
+  [![Mohammed-s-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=Mohammed-s-portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mohammed-fandees/Mohammed-s-portfolio)
+  [![Lonely](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=lonely&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mohammed-fandees/Lonely)
+  [![Wedgets](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=wedgets&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mohammed-fandees/Wedgets)
+  [![online-store](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=online-store&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mohammed-fandees/online-store)
+  
+  <p align="center">
+    <a href="https://github.com/mohammed-fandees?tab=repositories" target="_blank"><img alt="All Repositories"
+        title="All Repositories"
+        src="https://img.shields.io/badge/-All%20Repos-7F3FBF?style=for-the-badge&logo=koding&logoColor=white" /></a>
+  </p>
+  
+</div>
 
 <br />
 <hr />
