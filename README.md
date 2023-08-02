@@ -107,7 +107,7 @@
 
 <div align="center">
 
-  [![Mohammed-s-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=Mohammed-s-portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mohammed-fandees/Mohammed-s-portfolio)
+  [![Mohammed-s-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=my-portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mohammed-fandees/my-portfolio)
   [![Lonely](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=lonely&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mohammed-fandees/Lonely)
   [![Wedgets](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=wedgets&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mohammed-fandees/Wedgets)
   [![online-store](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=online-store&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mohammed-fandees/online-store)
