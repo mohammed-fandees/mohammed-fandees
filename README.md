@@ -1,5 +1,5 @@
 <a href="https://komarev.com/ghpvc/?username=mohammed-fandees">
-  <img align="right" src="https://komarev.com/ghpvc/?username=mohammed-fanees&label=Visitors&color=0e75b6&style=flat"
+  <img align="right" src="https://komarev.com/ghpvc/?username=mohammed-fandees&label=Visitors&color=0e75b6&style=flat"
     alt="Profile visitor" />
 </a>
 
