@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mohamed-fandees.firebaseapp.com" target="_blank">
+  <a href="https://mohammed-fandeess.firebaseapp.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"
       alt="mohammed-fanees" />
   </a>
@@ -90,7 +90,7 @@
 ![Windows](https://img.shields.io/badge/windows-007acc?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-F05032?style=for-the-badge&logo=linux&logoColor=white)
 
-## Targetted Skills
+## Targeted Skills
 
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=fff&labelColor=092749)
