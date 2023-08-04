@@ -3,9 +3,9 @@
     alt="Profile visitor" />
 </a>
 
-<a href="https://wakatime.com/@9b724250-5120-4677-a2e0-78b5979e78d1"><img
-    src="https://wakatime.com/badge/user/9b724250-5120-4677-a2e0-78b5979e78d1.svg"
-    alt="Total time coded since Aug 1 2023" />
+<a href="https://wakatime.com/@9b724250-5120-4677-a2e0-78b5979e78d1">
+  
+[![wakatime](https://wakatime.com/badge/user/9b724250-5120-4677-a2e0-78b5979e78d1.svg)](https://wakatime.com/@9b724250-5120-4677-a2e0-78b5979e78d1)
 </a>
 
 <h2 align="center">
