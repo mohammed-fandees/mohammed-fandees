@@ -1,5 +1,10 @@
 name: Update WakaTime Badge
 
+permissions:
+  contents: read
+  pull-requests: write
+  actions: write
+
 on:
   schedule:
     - cron: "0 0 * * *"  # Run daily at midnight
