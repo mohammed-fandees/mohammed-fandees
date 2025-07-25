@@ -123,7 +123,7 @@ const mohammed = {
 <td width="50%">
 
 ### 💫 [Ephemeral Chat](https://github.com/mohammed-fandees/ephemeral-chat)
-![Ephemeral Chat](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=lonely&theme=tokyonight&border_color=61dafb&bg_color=0D1117)
+![Ephemeral Chat](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=ephemeral-chat&theme=tokyonight&border_color=61dafb&bg_color=0D1117)
 
 **Chat Room with ephemeral messages**
 - 🤝 Real-time Chat Features
@@ -136,7 +136,7 @@ const mohammed = {
 <td width="50%">
 
 ### 🧩 [Blog Platform](https://github.com/mohammed-fandees/ijaz-blog)
-![Blog Platform](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=wedgets&theme=tokyonight&border_color=61dafb&bg_color=0D1117)
+![Blog Platform](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=ijaz-blog&theme=tokyonight&border_color=61dafb&bg_color=0D1117)
 
 **Ijaz, Islamic platform**
 - 🔧 Reusable Components
@@ -147,7 +147,7 @@ const mohammed = {
 <td width="50%">
 
 ### 🛒 [Online Store](https://github.com/mohammed-fandees/e-commerce)
-![Online Store](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=online-store&theme=tokyonight&border_color=61dafb&bg_color=0D1117)
+![Online Store](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=e-commerce&theme=tokyonight&border_color=61dafb&bg_color=0D1117)
 
 **Full-featured e-commerce platform**
 - 🛍️ Complete Shopping Experience
