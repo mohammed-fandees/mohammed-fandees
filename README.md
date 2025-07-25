@@ -122,12 +122,12 @@ const mohammed = {
 </td>
 <td width="50%">
 
-### 💫 [Lonely](https://github.com/mohammed-fandees/lonely)
-![Lonely](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=lonely&theme=tokyonight&border_color=61dafb&bg_color=0D1117)
+### 💫 [Ephemeral Chat](https://github.com/mohammed-fandees/ephemeral-chat)
+![Ephemeral Chat](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=lonely&theme=tokyonight&border_color=61dafb&bg_color=0D1117)
 
-**Social platform connecting people meaningfully**
+**Chat Room with ephemeral messages**
 - 🤝 Real-time Chat Features
-- 👥 Community Building Tools
+- 👥 Messages recorded by the users only
 - 🎨 Modern UI/UX Design
 
 </td>
@@ -135,10 +135,10 @@ const mohammed = {
 <tr>
 <td width="50%">
 
-### 🧩 [Wedgets](https://github.com/mohammed-fandees/wedgets)
-![Wedgets](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=wedgets&theme=tokyonight&border_color=61dafb&bg_color=0D1117)
+### 🧩 [Blog Platform](https://github.com/mohammed-fandees/ijaz-blog)
+![Blog Platform](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=wedgets&theme=tokyonight&border_color=61dafb&bg_color=0D1117)
 
-**Collection of useful web development widgets**
+**Ijaz, Islamic platform**
 - 🔧 Reusable Components
 - 📦 Easy Integration
 - 🎯 Developer-Friendly
@@ -146,7 +146,7 @@ const mohammed = {
 </td>
 <td width="50%">
 
-### 🛒 [Online Store](https://github.com/mohammed-fandees/online-store)
+### 🛒 [Online Store](https://github.com/mohammed-fandees/e-commerce)
 ![Online Store](https://github-readme-stats.vercel.app/api/pin/?username=mohammed-fandees&repo=online-store&theme=tokyonight&border_color=61dafb&bg_color=0D1117)
 
 **Full-featured e-commerce platform**
