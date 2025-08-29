@@ -28,7 +28,7 @@ const mohammed = {
     pronouns: "He" | "Him",
     location: "Egypt 🇪🇬",
     role: "React Developer",
-    experience: "4+ Years",
+    experience: "2+ Years",
     passion: ["Coding", "Learning", "Sharing Knowledge"],
     currentFocus: "Building awesome React applications",
     askMeAbout: ["React", "JavaScript", "Web Dev", "Problem Solving"],
